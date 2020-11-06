@@ -21,6 +21,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | [ 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/palindrome-linked-list/method2/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/palindrome-linked-list/explanation.md) |
 | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorder-list/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorder-list/explanation.md) |
+| [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-duplicate-node-lcci/Solution.java) |      |                                                              |
 
 #### Hash
 
