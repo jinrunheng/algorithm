@@ -25,6 +25,12 @@
 | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-duplicate-node-lcci/Solution.java) | <缺>                                                         | <缺>                                                         |
 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.go) | <缺>                                                         |
 
+#### Stack
+
+| 题目                                                         | Java                                                         | Go   | 题解 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/evaluate-reverse-polish-notation/Solution.java) | <缺> | <缺> |
+
 #### Hash
 
 | 题目                                                         | Java                                                         | Go   | 题解                                                         |
