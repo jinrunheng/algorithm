@@ -59,7 +59,18 @@
 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/partition-labels/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/partition-labels/explanation.md) |
 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-ii/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-ii/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-ii/explanation.md) |
 
+#### TopK
 
+| 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [最接近原点的 K 个点:最大堆解法](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/explanation.md) |
+| [最接近原点的 K 个点:快排解法](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/method3/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/method3/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/explanation.md) |
+
+#### Sort
+
+| 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/method3/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/method3/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/explanation.md) |
 
 #### BFS
 
