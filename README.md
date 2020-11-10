@@ -51,6 +51,12 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | [根据数字二进制下1的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/sort-integers-by-the-number-of-1-bits/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/sort-integers-by-the-number-of-1-bits/explanation.md) |
 
+#### Math
+
+| 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/next-permutation/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/next-permutation/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/next-permutation/explanation.md) |
+
 #### Sliding-Window
 
 | 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
