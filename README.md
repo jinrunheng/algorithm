@@ -90,6 +90,12 @@
 | --------------------------------------------------------- | ------------------------------------------------------------ | ---- | ---- |
 | [单词接龙](https://leetcode-cn.com/problems/word-ladder/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/word-ladder/Solution.java) | <缺> | <缺> |
 
+#### Data Structure Design
+
+| 题目                                                         | Java                                                         | Go   | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/implement-trie-prefix-tree/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/implement-trie-prefix-tree/explanation.md) |
+
 #### Other
 
 | 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
