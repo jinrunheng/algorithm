@@ -15,6 +15,7 @@
 | [有效的山脉数组](https://leetcode-cn.com/problems/valid-mountain-array/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/valid-mountain-array/method2/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/valid-mountain-array/method2/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/valid-mountain-array/explanation.md) |
 | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorder-list/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorder-list/explanation.md) |
 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.go) | <缺>                                                         |
+| [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/sort-array-by-parity-ii/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/sort-array-by-parity-ii/Solution.go) | <缺>                                                         |
 
 #### Linked List
 
