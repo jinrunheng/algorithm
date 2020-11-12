@@ -1,10 +1,14 @@
 # algorithm
 
-这是一个算法题仓库，按照不同的tag整理，有大量的来源于各种书籍以及LeetCode的题目，并且有我个人的学习笔记，代码与题解；所有题目使用的语言为Java;有部分题目提供了Golang 代码 
+这是一个算法学习仓库，有我个人算法学习整理的笔记，并且有按照不同tag整理的来源于各种书籍，以及LeetCode的题目，几乎每一道题目都有相对应的题解；所有题目使用的语言为Java;有部分题目提供了其他语言的代码 
 
-感谢您的fork与star~~ ❤
+感谢您的fork与star~~ ❤ ❤ ❤
 
-如果有更好的思路请提PR
+如果有错误需要更正请提issue,每一道题并不一定是最优解，如果你有更好的代码，请提PR
+
+### 学习笔记
+
+### 题目整理
 
 #### Two Pointers , Fast & Slow Pointers
 
@@ -16,6 +20,7 @@
 | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorder-list/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorder-list/explanation.md) |
 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.go) | <缺>                                                         |
 | [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/sort-array-by-parity-ii/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/sort-array-by-parity-ii/Solution.go) | <缺>                                                         |
+| [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/reverse-words-in-a-string/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/reverse-words-in-a-string/explanation.md) |
 
 #### Linked List
 
