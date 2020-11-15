@@ -21,6 +21,7 @@
 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.go) | <缺>                                                         |
 | [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/sort-array-by-parity-ii/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/sort-array-by-parity-ii/Solution.go) | <缺>                                                         |
 | [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/reverse-words-in-a-string/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/reverse-words-in-a-string/explanation.md) |
+| [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/explanation.md) |
 
 #### Linked List
 
@@ -30,12 +31,19 @@
 | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorder-list/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorder-list/explanation.md) |
 | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-duplicate-node-lcci/Solution.java) | <缺>                                                         | <缺>                                                         |
 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.go) | <缺>                                                         |
+| [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/explanation.md) |
 
 #### Stack
 
 | 题目                                                         | Java                                                         | Go   | 题解 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
 | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/evaluate-reverse-polish-notation/Solution.java) | <缺> | <缺> |
+
+#### Queue
+
+| 题目                                                         | Java                                                         | Go   | 题解 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
+| [LCP 07. 传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/queue/chuan-di-xin-xi/Solution.java) | <缺> | <缺> |
 
 #### Hash
 
@@ -46,10 +54,11 @@
 
 #### Tree
 
-| 题目                                                         | Java                                                         | Go   | 题解                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| [求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/sum-root-to-leaf-numbers/Solution.java) | <缺> | <缺>                                                         |
-| [ 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/binary-tree-preorder-traversal/method2/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/binary-tree-preorder-traversal/explanation.md) |
+| 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/sum-root-to-leaf-numbers/Solution.java) | <缺>                                                         | <缺>                                                         |
+| [ 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/binary-tree-preorder-traversal/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/binary-tree-preorder-traversal/explanation.md) |
+| [701. 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/tree/insert-into-a-binary-search-tree/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/sort-integers-by-the-number-of-1-bits/Solution.go) | <缺>                                                         |
 
 #### Bitewise Operation
 
