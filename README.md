@@ -4,11 +4,32 @@
 
 感谢您的fork与star~~ ❤ ❤ ❤
 
-如果有错误需要更正请提issue,每一道题并不一定是最优解，如果你有更好的代码，请提PR
-
 ### 学习笔记
 
+#### 算法与数据结构
+
+##### 1. 线性查找
+
+- [笔记](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmAndDataStructure/LinearSearch/note.md)
+- [LinearSeach](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmAndDataStructure/LinearSearch/LinearSearch.java)
+
+#### 算法初级部分
+
+##### 1. 认识复杂度和简单排序算法
+
+- [笔记](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/note.md)
+- [基于jdk11,ArrayList与LinkedList查找性能比较](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/TestArrayListAndLinkedList.java)
+- [选择排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/SelectionSort.java)
+- [冒泡排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/BubbleSort.java)
+- [插入排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/InsertionSort.java)
+- [二分法典型题](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/BinarySearch.java)
+- [异或运算典型题](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/EvenTimesOddTimes.java)
+
+
+
 ### 题目整理
+
+如果有错误需要更正请提issue,每一道题并不一定是最优解，如果你有更好的代码，欢迎提PR
 
 #### Two Pointers , Fast & Slow Pointers
 
@@ -86,6 +107,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/partition-labels/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/partition-labels/explanation.md) |
 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-ii/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-ii/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-ii/explanation.md) |
+| [406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/queue-reconstruction-by-height/Solution.java) | <缺>                                                         | <缺>                                                         |
 
 #### TopK
 
