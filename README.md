@@ -94,6 +94,14 @@
 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/next-permutation/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/next-permutation/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/next-permutation/explanation.md) |
 | [1010. 总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/math/pairs-of-songs-with-total-durations-divisible-by-60/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/math/pairs-of-songs-with-total-durations-divisible-by-60/Solution.go) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/pairs-of-songs-with-total-durations-divisible-by-60/explanation.md) |
 
+#### Prefix-Sum
+
+| 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/prefix-sum/maximum-subarray/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/prefix-sum/maximum-subarray/Solution.go) | [题解]([Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/prefix-sum/maximum-subarray/explanation.md)) |
+| [1109. 航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/prefix-sum/corporate-flight-bookings/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/prefix-sum/corporate-flight-bookings/explanation.md) |
+| [1094. 拼车](https://leetcode-cn.com/problems/car-pooling/)  | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/prefix-sum/car-pooling/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/prefix-sum/corporate-flight-bookings/explanation.md) |
+
 #### Sliding-Window
 
 | 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
