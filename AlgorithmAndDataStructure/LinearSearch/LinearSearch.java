@@ -5,9 +5,9 @@ public class LinearSearch {
     private LinearSearch() {
     }
 
-    public static int search(int[] data, int target) {
+    public static <E> int search(E[] data, E target) {
         for (int i = 0; i < data.length; i++) {
-            if (data[i] == target) {
+            if (data[i].equals(target)) {
                 return i;
             }
         }
@@ -15,13 +15,27 @@ public class LinearSearch {
     }
 
     public static void main(String[] args) {
-        int[] data = new int[]{24, 18, 12, 9, 16, 66, 32, 4};
 
-        int res = LinearSearch.search(data, 16);
+        int[] dataSize = {1000000,10000000};
+        for(int n : dataSize){
+            Integer[] data = ArrayGenerator.generateOrderedArray(n);
+            long start = System.nanoTime();
+            for(int i = 0; i < 10; i++){
+                LinearSearch.search(data, n);
+            }
+            long end = System.nanoTime();
+            System.out.println("time:" + (end - start) / 1000000000.0 + "s");
+        }
+
+
+
+
+        Student[] students = {new Student("Alice"),
+                new Student("Duby"),
+                new Student("Charles")};
+        Student duby = new Student("Duby");
+        int res = LinearSearch.search(students, duby);
         System.out.println(res);
-
-        int res2 = LinearSearch.search(data, 666);
-        System.out.println(res2);
     }
 }
 
