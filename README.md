@@ -30,7 +30,16 @@
 - [二分法典型题](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/BinarySearch.java)
 - [异或运算典型题](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson1/EvenTimesOddTimes.java)
 
+##### 2. O(N*logN)的排序算法
 
+- [笔记](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/note.md)
+- [使用递归写一个获取数组中最大值的算法](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/GetMax.java)
+- [归并排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/MergeSort.java)
+- [归并排序之小和问题](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/SmallSum.java)
+- [归并排序之逆序对问题](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/ReversePairs.java)
+- [堆排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/HeapSort.java)
+- [在Java中的堆结构：优先级队列](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/HeapInJava.java)
+- [堆问题：对一个每个元素和移动距离不超过k的数组进行排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/SortArrayDistanceLessThanK.java)
 
 ### 题目整理
 
