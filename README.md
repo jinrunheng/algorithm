@@ -84,10 +84,12 @@
 
 #### Hash
 
-| 题目                                                         | Java                                                         | Go   | 题解                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/how-many-numbers-are-smaller-than-the-current-number/method1/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/how-many-numbers-are-smaller-than-the-current-number/explanation.md) |
-| [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/unique-number-of-occurrences/method2/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/unique-number-of-occurrences/explanation.md) |
+| 题目                                                         | Java                                                         | Go   | Python                                                       | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/how-many-numbers-are-smaller-than-the-current-number/method1/Solution.java) | <缺> | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/how-many-numbers-are-smaller-than-the-current-number/explanation.md) |
+| [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/unique-number-of-occurrences/method2/Solution.java) | <缺> | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/unique-number-of-occurrences/explanation.md) |
+| [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/hash/contains-duplicate/Solution.java) | <缺> | [Solution.py](https://github.com/jinrunheng/algorithm/blob/main/tags/hash/contains-duplicate/Solution.py) | <缺>                                                         |
+| [575. 分糖果](https://leetcode-cn.com/problems/distribute-candies/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/hash/distribute-candies/Solution.java) | <缺> | <缺>                                                         | <缺>                                                         |
 
 #### Tree
 
