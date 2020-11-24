@@ -118,6 +118,7 @@
 | 题目                                                         | Java                                                         | Python | JS                                                           | 题解                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [Solution.java](https://github.com/jinrunheng/algorithm/tree/main/tags/dp/house-robber/Solution.java) | <缺>   | [solution.js](https://github.com/jinrunheng/algorithm/tree/main/tags/dp/house-robber/solution.js) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/house-robber/explanation.md) |
+| [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/minimum-path-sum/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/minimum-path-sum/explanation.md) |
 
 #### Prefix-Sum
 
