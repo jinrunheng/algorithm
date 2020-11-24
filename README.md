@@ -113,6 +113,12 @@
 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/next-permutation/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/next-permutation/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/next-permutation/explanation.md) |
 | [1010. 总持续时间可被 60 整除的歌曲](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/math/pairs-of-songs-with-total-durations-divisible-by-60/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/math/pairs-of-songs-with-total-durations-divisible-by-60/Solution.go) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/math/pairs-of-songs-with-total-durations-divisible-by-60/explanation.md) |
 
+#### DP
+
+| 题目                                                         | Java                                                         | Python | JS                                                           | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [Solution.java](https://github.com/jinrunheng/algorithm/tree/main/tags/dp/house-robber/Solution.java) | <缺>   | [solution.js](https://github.com/jinrunheng/algorithm/tree/main/tags/dp/house-robber/solution.js) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/house-robber/explanation.md) |
+
 #### Prefix-Sum
 
 | 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
