@@ -121,6 +121,7 @@
 | [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/minimum-path-sum/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/minimum-path-sum/explanation.md) |
 | [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/range-sum-query-immutable/Solution.java) | <缺>   | [solution.js](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/range-sum-query-immutable/solution.js) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/range-sum-query-immutable/explanation.md) |
 | [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/arithmetic-slices/Solution.java) | <缺>   | [solution.js](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/arithmetic-slices/solution.js) | <缺>                                                         |
+| [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/unique-paths/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/unique-paths/explanation.md) |
 
 #### Prefix-Sum
 
