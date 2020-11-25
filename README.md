@@ -158,6 +158,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/method3/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/method3/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/explanation.md) |
 | [1030. 距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/matrix-cells-in-distance-order/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/matrix-cells-in-distance-order/explanation.md) |
+| [1370. 上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/increasing-decreasing-string/method2/Solution.java) | <缺>                                                         | <缺>                                                         |
 
 #### BFS
 
