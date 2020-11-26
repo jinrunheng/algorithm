@@ -147,6 +147,7 @@
 | [406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/queue-reconstruction-by-height/Solution.java) | <缺>                                                         | <缺>                                                         |
 | [134. 加油站](https://leetcode-cn.com/problems/gas-station/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/gas-station/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/gas-station/explanation.md) |
 | [452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/minimum-number-of-arrows-to-burst-balloons/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/minimum-number-of-arrows-to-burst-balloons/explanation.md) |
+| [1518. 换酒问题](https://leetcode-cn.com/problems/water-bottles/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/water-bottles/Solution.java) | <缺>                                                         | <缺>                                                         |
 
 #### TopK
 
