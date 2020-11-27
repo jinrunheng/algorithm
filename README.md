@@ -90,6 +90,7 @@
 | [独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/unique-number-of-occurrences/method2/Solution.java) | <缺> | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/unique-number-of-occurrences/explanation.md) |
 | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/hash/contains-duplicate/Solution.java) | <缺> | [Solution.py](https://github.com/jinrunheng/algorithm/blob/main/tags/hash/contains-duplicate/Solution.py) | <缺>                                                         |
 | [575. 分糖果](https://leetcode-cn.com/problems/distribute-candies/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/hash/distribute-candies/Solution.java) | <缺> | <缺>                                                         | <缺>                                                         |
+| [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/4sum-ii/Solution.java) | <缺> | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/4sum-ii/explanation.md) |
 
 #### Tree
 
