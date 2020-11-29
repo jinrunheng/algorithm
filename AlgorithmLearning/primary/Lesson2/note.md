@@ -572,9 +572,363 @@ public class SortArrayDistanceLessThanK {
 }
 ```
 
-
-
 其时间复杂度O(N * logK)
 
+#### 6. 比较器的使用
 
+```java
+package primary.Lesson2;
+
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.util.PriorityQueue;
+
+public class MyComparator {
+    public static class Student {
+        public int id;
+        public String name;
+        public int age;
+
+        public Student(int id, String name, int age) {
+            this.id = id;
+            this.name = name;
+            this.age = age;
+        }
+
+        @Override
+        public String toString() {
+            return "Student{" +
+                    "id=" + id +
+                    ", name='" + name + '\'' +
+                    ", age=" + age +
+                    '}';
+        }
+    }
+
+    // 按照学生id由小到大
+    public static class IdAscendingComparator implements Comparator<Student> {
+
+        @Override
+        public int compare(Student o1, Student o2) {
+            return o1.id - o2.id;
+        }
+    }
+
+    // 按照学生id由大到小
+    public static class IdDescendingComparator implements Comparator<Student> {
+
+        @Override
+        public int compare(Student o1, Student o2) {
+            return o2.id - o1.id;
+        }
+    }
+
+    // 按照学生age由小到大
+    public static class AgeAscendingComparator implements Comparator<Student> {
+
+        @Override
+        public int compare(Student o1, Student o2) {
+            return o1.age - o2.age;
+        }
+    }
+
+    // 按照学生age由大到小
+    public static class AgeDescendingComparator implements Comparator<Student> {
+
+        @Override
+        public int compare(Student o1, Student o2) {
+            return o2.age - o1.age;
+        }
+    }
+
+    public static void main(String[] args) {
+        Student student1 = new Student(1, "小王", 23);
+        Student student2 = new Student(3, "小红", 21);
+        Student student3 = new Student(2, "小张", 28);
+        Student student4 = new Student(4, "小李", 18);
+        Student student5 = new Student(5, "小强", 31);
+        List<Student> students = new ArrayList<>();
+
+        students.add(student1);
+        students.add(student2);
+        students.add(student3);
+        students.add(student4);
+        students.add(student5);
+
+        PriorityQueue<Student> heap1 = new PriorityQueue<>(new IdDescendingComparator());
+        PriorityQueue<Student> heap2 = new PriorityQueue<>(new IdAscendingComparator());
+        PriorityQueue<Student> heap3 = new PriorityQueue<>(new AgeDescendingComparator());
+        PriorityQueue<Student> heap4 = new PriorityQueue<>(new AgeAscendingComparator());
+
+
+        for (Student s : students) {
+            heap1.add(s);
+            heap2.add(s);
+            heap3.add(s);
+            heap4.add(s);
+        }
+        System.out.println("按照id升序打印：");
+        while (!heap2.isEmpty()) {
+            System.out.println(heap2.poll());
+        }
+        System.out.println("按照id降序打印：");
+        while (!heap1.isEmpty()) {
+            System.out.println(heap1.poll());
+        }
+        System.out.println("按照age升序打印：");
+        while (!heap4.isEmpty()) {
+            System.out.println(heap4.poll());
+        }
+        System.out.println("按照age降序打印：");
+        while (!heap3.isEmpty()) {
+            System.out.println(heap3.poll());
+        }
+    }
+}
+```
+
+代码执行结果：
+
+```
+按照id升序打印：
+Student{id=1, name='小王', age=23}
+Student{id=2, name='小张', age=28}
+Student{id=3, name='小红', age=21}
+Student{id=4, name='小李', age=18}
+Student{id=5, name='小强', age=31}
+按照id降序打印：
+Student{id=5, name='小强', age=31}
+Student{id=4, name='小李', age=18}
+Student{id=3, name='小红', age=21}
+Student{id=2, name='小张', age=28}
+Student{id=1, name='小王', age=23}
+按照age升序打印：
+Student{id=4, name='小李', age=18}
+Student{id=3, name='小红', age=21}
+Student{id=1, name='小王', age=23}
+Student{id=2, name='小张', age=28}
+Student{id=5, name='小强', age=31}
+按照age降序打印：
+Student{id=5, name='小强', age=31}
+Student{id=2, name='小张', age=28}
+Student{id=1, name='小王', age=23}
+Student{id=3, name='小红', age=21}
+Student{id=4, name='小李', age=18}
+```
+
+#### 7. 快排
+
+##### 问题1
+
+给定一个数组arr，和一个数num，请把小于等于num的数放在数组的左边，大于num的树放在数组的右边。要求时间复杂度为O(N)，额外空间复杂度为O(1)
+
+代码如下：
+
+```java
+package primary.Lesson2;
+
+import primary.util.ArrayUtils;
+
+public class PartitionArr {
+
+    // 给定一个数组arr，和一个数num；
+    // 请把小于等于num的数放在数组的左边，大于num的树放在数组的右边。
+    // 要求时间复杂度为O(N)，额外空间复杂度为O(1)
+    // 返回：经过partition后，小于等于num的最后数字的索引
+    public static int partition(int[] arr, int num) {
+        int less = -1;
+        int cur = 0;
+        while (cur < arr.length) {
+            if (arr[cur] <= num) {
+                ArrayUtils.fastSwap(arr, cur++, ++less);
+            } else {
+                cur++;
+            }
+        }
+        return less;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = ArrayUtils.generateRandomArr(-100, 100, 100);
+        int num = arr[50];
+        System.out.println("num:" + num);
+        int lessIndex = partition(arr, num);
+        System.out.println("lessIndex:" + lessIndex);
+        ArrayUtils.printArr(arr);
+        for (int i = 0; i <= lessIndex; i++) {
+            if (arr[i] > num) {
+                throw new RuntimeException("fail");
+            }
+        }
+        for (int i = lessIndex + 1; i < arr.length; i++) {
+            if (arr[i] <= num) {
+                throw new RuntimeException("fail");
+            }
+        }
+        System.out.println("success");
+    }
+}
+```
+
+##### 问题2
+
+leetcode题目：[75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)
+
+又名荷兰国旗问题：
+
+代码：
+
+```java
+class Solution {
+    public void sortColors(int[] nums) {
+        // 0...0,1...1,2...2
+        int less = -1;
+        int more = nums.length;
+        int cur = 0;
+        while (cur < more) {
+            if (nums[cur] == 0) {
+                swap(nums, cur++, ++less);
+            } else if (nums[cur] == 2) {
+                swap(nums, cur, --more);
+            } else {
+                cur++;
+            }
+        }
+    }
+
+    private static void swap(int[] arr, int i, int j) {
+        if (i == j) {
+            return;
+        }
+
+        arr[i] = arr[i] ^ arr[j];
+        arr[j] = arr[i] ^ arr[j];
+        arr[i] = arr[i] ^ arr[j];
+    }
+}
+```
+
+##### 快速排序
+
+只要明白了partition的过程，快排的代码就非常简单了：
+
+```java
+package primary.Lesson2;
+
+import primary.util.ArrayUtils;
+
+import java.util.Arrays;
+
+public class QuickSort {
+
+    public static void sort(int[] arr) {
+        if (arr == null || arr.length < 2) {
+            return;
+        }
+        quickSort(arr, 0, arr.length - 1);
+    }
+
+    public static void quickSort(int[] arr, int l, int r) {
+        if (l < r) {
+            int[] p = partition(arr, l, r);
+            quickSort(arr, l, p[0] - 1);
+            quickSort(arr, p[0] + 1, r);
+        }
+    }
+
+    public static int[] partition(int[] arr, int l, int r) {
+        int cur = l;
+        int less = l - 1;
+        int more = r;
+        // 每次都以arr[r]作为partition的划分值
+        while (cur < more) {
+            if (arr[cur] < arr[r]) {
+                ArrayUtils.fastSwap(arr, ++less, cur++);
+            } else if (arr[cur] > arr[r]) {
+                ArrayUtils.fastSwap(arr, --more, cur);
+            } else {
+                cur++;
+            }
+        }
+        ArrayUtils.fastSwap(arr, more, r);
+        return new int[]{less + 1, more};
+    }
+}
+
+```
+
+##### 快排的改进
+
+随机选择partition的划分值
+
+代码如下：
+
+```java
+package primary.Lesson2;
+
+import primary.util.ArrayUtils;
+
+import java.util.Arrays;
+import java.util.Random;
+
+public class QuickSort {
+
+    public static void sort(int[] arr) {
+        if (arr == null || arr.length < 2) {
+            return;
+        }
+        quickSort(arr, 0, arr.length - 1);
+    }
+
+    public static void quickSort(int[] arr, int l, int r) {
+        if (l < r) {
+          	// 改进的部分，让原本固定在最后的partition划分值 变成了随机位置 
+            ArrayUtils.fastSwap(arr, r, l + new Random().nextInt(r - l + 1));
+            int[] p = partition(arr, l, r);
+            quickSort(arr, l, p[0] - 1);
+            quickSort(arr, p[0] + 1, r);
+        }
+    }
+
+    public static int[] partition(int[] arr, int l, int r) {
+        int cur = l;
+        int less = l - 1;
+        int more = r;
+        // 每次都以arr[r]作为partition的划分值
+        while (cur < more) {
+            if (arr[cur] < arr[r]) {
+                ArrayUtils.fastSwap(arr, ++less, cur++);
+            } else if (arr[cur] > arr[r]) {
+                ArrayUtils.fastSwap(arr, --more, cur);
+            } else {
+                cur++;
+            }
+        }
+        ArrayUtils.fastSwap(arr, more, r);
+        return new int[]{less + 1, more};
+    }
+}
+
+```
+
+##### 快速排序的时间复杂度分析
+
+当我们改进了快排以后，每次划分值的落点就变得随机了，通过概率求期望得到，这个落点的划分会将母问题划分成两个等规模的子问题
+
+通过Master公式可以得到快速排序:`T(N) = 2 * T(N/2) + O(N)`
+
+a = 2
+
+b = 2
+
+d = 1
+
+因为有：
+
+`log(b,a) = d`；所以最终的时间复杂度为`O(N ^ d * logN)` 为：`O(N * log(N))`
+
+##### 快速排序的额外空间复杂度分析
+
+当我们每次都将整个排好序的数组的中间做为落点时，partition每次额外开辟的数组就可以复用，这样就同一棵树一样，开辟的空间和树的高度成正相关，所以其额外空间复杂度为`O(logN)`
 
