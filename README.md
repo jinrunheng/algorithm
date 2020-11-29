@@ -48,6 +48,12 @@
 - [堆排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/HeapSort.java)
 - [在Java中的堆结构：优先级队列](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/HeapInJava.java)
 - [堆问题：对一个每个元素和移动距离不超过k的数组进行排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/SortArrayDistanceLessThanK.java)
+- [比较器](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/MyComparator.java)
+- [partition问题](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/PartitionArr.java)
+- [荷兰国旗问题](https://github.com/jinrunheng/algorithm/blob/main/tags/sort/sort-colors/explanation.md)
+- [快速排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmLearning/primary/Lesson2/QuickSort.java)
+
+##### 3. 
 
 ### 题目整理
 
@@ -172,6 +178,7 @@
 | [最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/method3/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/method3/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/k-closest-points-to-origin/explanation.md) |
 | [1030. 距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/matrix-cells-in-distance-order/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/matrix-cells-in-distance-order/explanation.md) |
 | [1370. 上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/increasing-decreasing-string/method2/Solution.java) | <缺>                                                         | <缺>                                                         |
+| [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/sort/sort-colors/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/sort/sort-colors/Solution.go) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sort/sort-colors/explanation.md) |
 
 #### BFS
 
