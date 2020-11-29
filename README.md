@@ -16,6 +16,14 @@
 
 ##### 2. 排序基础
 
+- [笔记](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmAndDataStructure/BasicSorting/note.md)
+- [选择排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmAndDataStructure/BasicSorting/SelectionSort/SelectionSort.java)
+- [插入排序](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmAndDataStructure/BasicSorting/InsertionSort/InsertionSort.java)
+- [插入排序的优化](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmAndDataStructure/BasicSorting/InsertionSort/InsertionSort2.java)
+- [在数据状况随机与有序的情况下看两种排序的性能比较](https://github.com/jinrunheng/algorithm/blob/main/AlgorithmAndDataStructure/BasicSorting/InsertionSort/InsertionAndSelectionSortTest.java)
+
+##### 3. 数据结构基础：动态数组，栈和队列
+
 
 
 #### 算法初级部分
