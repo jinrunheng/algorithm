@@ -59,6 +59,13 @@
 
 如果有错误需要更正请提issue,每一道题并不一定是最优解，如果你有更好的代码，欢迎提PR
 
+#### Dichotomy
+
+| 题目                                                         | Java                                                         | Go                                                           | JS                                                           | 题解 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [374. 猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dichotomy/guess-number-higher-or-lower/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/dichotomy/guess-number-higher-or-lower/Solution.go) | [solution.js](https://github.com/jinrunheng/algorithm/blob/main/tags/dichotomy/guess-number-higher-or-lower/solution.js) | <缺> |
+| [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dichotomy/search-a-2d-matrix/method2/Solution.java) | <缺>                                                         | <缺>                                                         | <缺> |
+
 #### Two Pointers , Fast & Slow Pointers
 
 | 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
