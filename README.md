@@ -162,6 +162,13 @@
 | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/minimum-size-subarray-sum/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/minimum-size-subarray-sum/Solution.go) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/minimum-size-subarray-sum/note.md) |
 | [无重复字符的最长字串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/longest-substring-without-repeating-characters/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/longest-substring-without-repeating-characters/Solution.go) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sliding-window/longest-substring-without-repeating-characters/note.md) |
 
+#### Monotonous-Stack
+
+| 题目                                                         | Java                                                         | Go   | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| [402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-k-digits/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-k-digits/explanation.md) |
+| [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | [Solutionjava](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/create-maximum-number/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/create-maximum-number/explanation.md) |
+
 #### Greedy
 
 | 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
