@@ -139,6 +139,12 @@
 | [204. 计数质数](https://leetcode-cn.com/problems/count-primes/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/count-primes/method2/Solution.java) | <缺>                                                         | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/count-primes/explanation.md) |
 | [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/pascals-triangle/Solution.java) | <缺>                                                         | <缺>                                                         | <缺>                                                         |
 
+#### Recursion
+
+| 题目                                                         | Java                                                         | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [1306. 跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/recursion/jump-game-iii/Solution.java) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/recursion/jump-game-iii/explanation.md) |
+
 #### DP
 
 | 题目                                                         | Java                                                         | Python | JS                                                           | 题解                                                         |
@@ -150,6 +156,7 @@
 | [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/unique-paths/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/unique-paths/explanation.md) |
 | [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/integer-break/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/integer-break/explanation.md) |
 | [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/coin-change/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/coin-change/explanation.md) |
+| [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/min-cost-climbing-stairs/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/min-cost-climbing-stairs/explanation.md) |
 
 #### Prefix-Sum
 
@@ -184,6 +191,7 @@
 | [452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/minimum-number-of-arrows-to-burst-balloons/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/minimum-number-of-arrows-to-burst-balloons/explanation.md) |
 | [1518. 换酒问题](https://leetcode-cn.com/problems/water-bottles/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/water-bottles/Solution.java) | <缺>                                                         | <缺>                                                         |
 | [767. 重构字符串](https://leetcode-cn.com/problems/reorganize-string/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorganize-string/method1/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorganize-string/explanation.md) |
+| [861. 翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/score-after-flipping-matrix/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/score-after-flipping-matrix/explanation.md) |
 
 #### TopK
 
