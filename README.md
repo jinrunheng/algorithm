@@ -209,6 +209,15 @@
 | [1370. 上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/increasing-decreasing-string/method2/Solution.java) | <缺>                                                         | <缺>                                                         |
 | [75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/sort/sort-colors/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/sort/sort-colors/Solution.go) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/sort/sort-colors/explanation.md) |
 
+#### DFS
+
+| 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dfs/letter-combinations-of-a-phone-number/method1/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dfs/letter-combinations-of-a-phone-number/explanation.md) |
+| [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dfs/binary-tree-paths/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dfs/binary-tree-paths/explanation.md) |
+| [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [Solution.java]()                                            | [solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/dfs/max-area-of-island/solution.go) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dfs/max-area-of-island/explanation.md) |
+| [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dfs/number-of-islands/Solution.java) | [solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/dfs/number-of-islands/solution.go) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dfs/number-of-islands/explanation.md) |
+
 #### BFS
 
 | 题目                                                      | Java                                                         | Go   | 题解 |
