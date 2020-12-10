@@ -192,6 +192,7 @@
 | [1518. 换酒问题](https://leetcode-cn.com/problems/water-bottles/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/water-bottles/Solution.java) | <缺>                                                         | <缺>                                                         |
 | [767. 重构字符串](https://leetcode-cn.com/problems/reorganize-string/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorganize-string/method1/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorganize-string/explanation.md) |
 | [861. 翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/score-after-flipping-matrix/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/score-after-flipping-matrix/explanation.md) |
+| [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/lemonade-change/Solution.java) | [solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/lemonade-change/solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/lemonade-change/explanation.md) |
 
 #### TopK
 
