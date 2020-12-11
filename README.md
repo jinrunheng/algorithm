@@ -179,6 +179,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | [402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-k-digits/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-k-digits/explanation.md) |
 | [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | [Solutionjava](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/create-maximum-number/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/create-maximum-number/explanation.md) |
+| [962. 最大宽度坡](https://leetcode-cn.com/problems/maximum-width-ramp/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/monotonous-stack/maximum-width-ramp/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/monotonous-stack/maximum-width-ramp/explanation.md) |
 
 #### Greedy
 
