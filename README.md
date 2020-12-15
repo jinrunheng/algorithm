@@ -94,9 +94,11 @@
 
 #### Stack
 
-| 题目                                                         | Java                                                         | Go   | 题解 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- |
-| [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/evaluate-reverse-polish-notation/Solution.java) | <缺> | <缺> |
+| 题目                                                         | Java                                                         | Go   | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/evaluate-reverse-polish-notation/Solution.java) | <缺> | <缺>                                                         |
+| [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/min-stack/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/min-stack/explanation.md) |
+| [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-queue-using-stacks/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-queue-using-stacks/explanation.md) |
 
 #### Queue
 
@@ -181,6 +183,7 @@
 | [402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-k-digits/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-k-digits/explanation.md) |
 | [321. 拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/) | [Solutionjava](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/create-maximum-number/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/create-maximum-number/explanation.md) |
 | [962. 最大宽度坡](https://leetcode-cn.com/problems/maximum-width-ramp/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/monotonous-stack/maximum-width-ramp/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/monotonous-stack/maximum-width-ramp/explanation.md) |
+| [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/monotonous-stack/daily-temperatures/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/monotonous-stack/daily-temperatures/explanation.md) |
 
 #### Greedy
 
@@ -197,6 +200,7 @@
 | [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/lemonade-change/Solution.java) | [solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/lemonade-change/solution.go) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/lemonade-change/explanation.md) |
 | [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/can-place-flowers/Solution.java) | [solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/can-place-flowers/solution.go) | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/greedy/can-place-flowers/explanation.md) |
 | [649. Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/dota2-senate/Solution.java) | <缺>                                                         | [solution.js](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/dota2-senate/solution.js) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/dota2-senate/explanation.md) |
+| [738. 单调递增的数字](https://leetcode-cn.com/problems/monotone-increasing-digits/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/monotone-increasing-digits/Solution.java) | <缺>                                                         | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/monotone-increasing-digits/explanation.md) |
 
 #### TopK
 
