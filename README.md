@@ -116,6 +116,7 @@
 | [575. 分糖果](https://leetcode-cn.com/problems/distribute-candies/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/hash/distribute-candies/Solution.java) | <缺> | <缺>                                                         | <缺>                                                         |
 | [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/4sum-ii/Solution.java) | <缺> | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/4sum-ii/explanation.md) |
 | [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/group-anagrams/Solution.java) | <缺> | <缺>                                                         | <缺>                                                         |
+| [290. 单词规律](https://leetcode-cn.com/problems/word-pattern/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/word-pattern/Solution.java) | <缺> | <缺>                                                         | <缺>                                                         |
 
 #### Tree
 
