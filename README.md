@@ -250,6 +250,7 @@
 | 题目                                                         | Java                                                         | Go   | 题解                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/implement-trie-prefix-tree/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/implement-trie-prefix-tree/explanation.md) |
+| [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/dui-lie-de-zui-da-zhi-lcof/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/data-structure-design/dui-lie-de-zui-da-zhi-lcof/explanation.md) |
 
 #### Other
 
