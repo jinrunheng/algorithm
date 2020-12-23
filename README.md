@@ -67,6 +67,12 @@
 | [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dichotomy/search-a-2d-matrix/method2/Solution.java) | <缺>                                                         | <缺>                                                         | <缺>                                                         |
 | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/find-first-and-last-position-of-element-in-sorted-array/method2/Solution.java) | <缺>                                                         | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/find-first-and-last-position-of-element-in-sorted-array/explanation.md) |
 
+#### String
+
+| 题目                                                         | Java                                                         | 题解                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/method2/Solution.java) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/explanation.md) |
+
 #### Two Pointers , Fast & Slow Pointers
 
 | 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
@@ -85,6 +91,7 @@
 
 | 题目                                                         | Java                                                         | Go                                                           | 题解                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/fan-zhuan-lian-biao-lcof/method1/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/fan-zhuan-lian-biao-lcof/explanation.md) |
 | [ 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/palindrome-linked-list/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/palindrome-linked-list/explanation.md) |
 | [重排链表](https://leetcode-cn.com/problems/reorder-list/)   | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorder-list/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/reorder-list/explanation.md) |
 | [移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/remove-duplicate-node-lcci/Solution.java) | <缺>                                                         | <缺>                                                         |
@@ -175,6 +182,7 @@
 | [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-with-transaction-fee/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/best-time-to-buy-and-sell-stock-with-transaction-fee/explanation.md) |
 | [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/best-time-to-buy-and-sell-stock-with-cooldown/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/best-time-to-buy-and-sell-stock-with-cooldown/explanation.md) |
 | [剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/chou-shu-lcof/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/chou-shu-lcof/explanation.md) |
+| [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/li-wu-de-zui-da-jie-zhi-lcof/Solution.java) | <缺>   | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/dp/li-wu-de-zui-da-jie-zhi-lcof/explanation.md) |
 
 #### Prefix-Sum
 
