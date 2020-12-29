@@ -72,6 +72,7 @@
 | 题目                                                         | Java                                                         | 题解                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/method2/Solution.java) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/ti-huan-kong-ge-lcof/explanation.md) |
+| [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/string/zuo-xuan-zhuan-zi-fu-chuan-lcof/method2/Solution.java) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/string/zuo-xuan-zhuan-zi-fu-chuan-lcof/explanation.md) |
 
 #### Two Pointers , Fast & Slow Pointers
 
