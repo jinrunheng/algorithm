@@ -107,6 +107,7 @@
 | [20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/valid-parentheses/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/valid-parentheses/explanation.md) |
 | [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)   | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/min-stack/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/min-stack/explanation.md) |
 | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-queue-using-stacks/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-queue-using-stacks/explanation.md) |
+| [225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-stack-using-queues/Solution.java) | <缺> | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/stack/implement-stack-using-queues/explanation.md) |
 
 #### Queue
 
