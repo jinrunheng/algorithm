@@ -99,6 +99,7 @@
 | [返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.java) | [Solution.go](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/kth-node-from-end-of-list-lcci/Solution.go) | <缺>                                                         |
 | [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/explanation.md) |
 | [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/insertion-sort-list/method2/Solution.java) | <缺>                                                         | <缺>                                                         |
+| [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/partition-list/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/linked-list/partition-list/explanation.md) |
 
 #### Stack
 
