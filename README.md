@@ -87,6 +87,7 @@
 | [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/reverse-words-in-a-string/method2/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/two-pointers/reverse-words-in-a-string/explanation.md) |
 | [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/Solution.go) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/tree/main/odd-even-linked-list/explanation.md) |
 | [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/move-zeroes/Solution.java) | [Solution.go](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/move-zeroes/Solution.go) | <缺>                                                         |
+| [830. 较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/positions-of-large-groups/Solution.java) | <缺>                                                         | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/positions-of-large-groups/explanation.md) |
 
 #### Linked List
 
