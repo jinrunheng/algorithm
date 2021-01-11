@@ -272,6 +272,7 @@
 | 题目                                                         | Java                                                         | 题解                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [547. 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-provinces/Solution.java) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/number-of-provinces/explanation.md) |
+| [1202. 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | [Solution.java](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/smallest-string-with-swaps/Solution.java) | [题解](https://github.com/jinrunheng/leetcode-daily-problem/blob/main/smallest-string-with-swaps/explanation.md) |
 
 #### Data Structure Design
 
