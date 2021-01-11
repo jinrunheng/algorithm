@@ -167,6 +167,7 @@
 | 题目                                                         | Java                                                         | 题解                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [1306. 跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/recursion/jump-game-iii/Solution.java) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/recursion/jump-game-iii/explanation.md) |
+| [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [Solution.java](https://github.com/jinrunheng/algorithm/blob/main/tags/matrix/shun-shi-zhen-da-yin-ju-zhen-lcof/Solution.java) | [题解](https://github.com/jinrunheng/algorithm/blob/main/tags/matrix/shun-shi-zhen-da-yin-ju-zhen-lcof/explanation.md) |
 
 #### DP
 
